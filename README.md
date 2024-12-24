@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub Profile!
+#                       Hi there! 👋 Welcome to my GitHub Profile!
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9819A3&background=0C010F00&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+;I'm+a+Innovator+%7C+Dreamer+%7C+Creator;Let's+innovate%2C+create%2C+and+build+!" alt="Typing SVG" /></a>
@@ -16,14 +16,14 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 
 ---
 
-🔭 Currently working on:
+## 🔭 Currently working on:
 
 - Developing projects related to Python 🐍 and Arduino 💡.
 - Exploring competitive programming 💻 and data analytics 📊.
 
 ---
 
-🌱 Learning:
+## 🌱 Learning:
 
 - Advanced algorithms and data structures 🧠.
 - Embedded systems and IoT 🌐.
@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 
 ---
 
-## Technologies I Work With  
+## 🛠️ Technologies I Work With  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow,sklearn,anaconda,r,replit,arduino,c,cpp,js,html,php,css,wordpress,git,github,latex,matlab,octave,notion,pycharm,vscode&perline=5" alt="Tech Icons"> 
 </p> 
@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 
 ---
 
-## GitHub Stats  
+## 📝GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 
 ---
 
-## Get In Touch  
+## 📧 Get In Touch  
 
 <p align="center">
   <a href="https://linkedin.com/in/Oshadha345" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -58,7 +58,7 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 
 ---
 
-## Hobbies & Interests  
+## 🎮Hobbies & Interests  
 
 - 🎮 Gaming and exploring new technology.
 - 📚 Reading books by authors like Michio Kaku.
@@ -67,7 +67,7 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 
 ---
 
-## Ongoing Projects  
+## ⚙️Ongoing Projects  
 
 - 🧩 **[Game Concept for Teens]**: Combines puzzles and adventures to teach Python programming.
 - 🤖 **[AI Data Analysis Challenge]**: Leveraging AI to find actionable insights.
