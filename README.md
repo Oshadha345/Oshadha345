@@ -42,10 +42,10 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 ## 📝GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=radical" alt="GitHub Stats">
- 
-  <img src="https://streak-stats.demolab.com?user=Oshadha345&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=radical" alt="GitHub Stats"
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Oshadha345&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
@@ -61,7 +61,7 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 
 ## 🎮Hobbies & Interests  
 
-- 🎮 Gaming and exploring new technology.
+- 🎮 Exploring new technologies.
 - 📚 Reading books by authors like Michio Kaku.
 - 🎵 Listening to music and discovering new genres.
 - 🏃‍♂️ Staying active with outdoor adventures.
