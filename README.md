@@ -41,11 +41,18 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 
 ## 📝GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=radical" alt="GitHub Stats"
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Oshadha345&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td valign="top" width="50%">
+        <img width="100%" src="https://streak-stats.demolab.com/?user=Oshadha345&theme=dark" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
