@@ -1,4 +1,4 @@
-#                       Hi there! 👋 Welcome to my GitHub Profile!
+<h1 align="center">Hi there! 👋 Welcome to my GitHub Profile!</h1>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9819A3&background=0C010F00&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+;I'm+a+Innovator+%7C+Dreamer+%7C+Creator;Let's+innovate%2C+create%2C+and+build+!" alt="Typing SVG" /></a>
@@ -40,6 +40,8 @@ Welcome to my GitHub! I'm a passionate engineering student and aspiring develope
 ---
 
 ## 📝GitHub Stats  
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Oshadha345&label=Profile%20views&color=0e75b6&style=flat" alt="Oshadha345" /> </p>
 
 <div align="center">
   <table>
