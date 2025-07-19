@@ -5,85 +5,104 @@
 </p>
 
 ---
-Welcome to my GitHub! I'm a passionate engineering student and aspiring developer from Sri Lanka. Currently, I'm diving into various projects, from game development 🎮 to AI & Machine Learning 🤖, and I enjoy learning new things and collaborating on exciting challenges.
 
+## 👨‍💻 About Me
 
-## 🧑‍💻About Me  
-
-- 🎓 Undergraduate student at the **University of Peradeniya**, Faculty of Engineering.
-- 🌱 I’m currently exploring **AI**, **Machine Learning**, and **Competitive Programming**.  
-- 👨‍💻 Actively contributing to open-source and working on **innovative projects**.  
-
----
-
-## 🔭 Currently working on:
-
-- Developing projects related to Python 🐍 and Arduino 💡.
-- Exploring competitive programming 💻 and data analytics 📊.
+- 🎓 Undergraduate in Electrical & Electronic Engineering at **University of Peradeniya**, Sri Lanka.
+- 🌱 Exploring **AI/ML**, **Embedded Systems/IoT**, **Signal Processing**, and **Robotics**.
+- 🔗 Passionate about open-source projects and system-level innovation.
+- 📍 Based in Sri Lanka.
 
 ---
 
-## 🌱 Learning:
+## 🔧 What I’m Working On
 
-- Advanced algorithms and data structures 🧠.
-- Embedded systems and IoT 🌐.
-- Game development with a focus on Python and Unity 🎮.
+- 🤖 **SVAIS (Smart Voice-based Acoustic IoT System)**  
+  Architecting a modular audio-intelligent system with ESP32 and backup-ready hardware. Combining audio recognition, PCB design, and automation control.
+
+- 🎙️ **Edge Audio Recognition with ESP32**  
+  Developing real-time trigger word detection (e.g., *clap*, *hello*) using low-power, memory-efficient DSP + ML pipelines suitable for microcontrollers.
+
+- 🦾 **Autonomous Robotics with Webots**  
+  Creating a fully simulated 2-wheeled robot with SLAM (BreezySLAM), sensor fusion (Kalman, Complementary Filters), and PID-based motor control.
+
+- 📐 **Custom PCB Design & Hardware Architecture**  
+  Designing modular through-hole PCBs for IoT systems in EasyEDA — with separation of power/control domains, UPS integration, and sensor-amp setups.
+
+- 📊 **Signal Processing & Sensor Fusion R&D**  
+  Exploring filtering techniques (Kalman, Complementary, Low/High Pass) to build robust sensor data pipelines for motion control, audio, and robotics.
+
+- 🧠 **Divide-and-Conquer ML & Systems Thinking**  
+  Applying structured hybrid learning: from sound classification to simulation frameworks — merging DSP, embedded, algorithms, and control systems.
+
+---
+
+## 🚀 Selected Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔊 [**Smart Voice-based Acoustic IoT System (SVAIS)**] | A real-time ESP32-based system using a MAX4466 mic, PAM8403 amp, and LiPo UPS. Features wake-word/audio recognition, dual-board modular PCB (Power + Control), and emergency backup functionality. |
+| 🧠 [**Lightweight Audio Recognizer**] | Detects sounds like *snap*, *clap*, *hello*, *on*, *off* using DSP and ML. Includes CSV generation, MFCC extraction, custom classifier, and low-power deployment pipeline. |
+| 🤖 [**Webots Autonomous Robot Simulation**] | 2-wheeled robot simulation with Xiaomi LDS LIDAR, BreezySLAM, Kalman/Complementary filters, and real-time path planning. Fully modular software pipeline with testing structure. |
+| 🔌 [**Custom ESP32 Modular PCB (EasyEDA)**]| Through-hole two-board system with proper ground separation, JST connectors, UPS-powered backup, ESP32 DevKit modular headers, and simulation-first schematic design. |
+
+> 🔍 *More projects at [github.com/Oshadha345?tab=repositories](https://github.com/Oshadha345?tab=repositories)*
 
 ---
 
 ## 🛠️ Technologies I Work With  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow,sklearn,anaconda,r,replit,arduino,c,cpp,js,html,php,css,wordpress,git,github,latex,matlab,octave,notion,pycharm,vscode&perline=5" alt="Tech Icons"> 
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,tensorflow,sklearn,anaconda,r,replit,arduino,c,cpp,js,html,php,css,wordpress,git,github,latex,matlab,octave,notion,gtk,pycharm,vscode&perline=5" alt="Tech Icons"> 
 </p> 
-
 
 ---
 
-## 📝GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Oshadha345&label=Profile%20views&color=0e75b6&style=flat" alt="Oshadha345" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oshadha345&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
       </td>
-      <td valign="top" width="50%">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=Oshadha345&theme=dark" alt="GitHub Streak" />
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com/?user=Oshadha345&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oshadha345&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
 
-## 📧 Get In Touch  
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oshadha-samarakoon-488638341" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:samarakoonf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Oshadha345" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/oshadha-samarakoon-488638341" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:samarakoonf@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Oshadha345" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-## 🎮Hobbies & Interests  
+## 🎯 Hobbies & Interests
 
-- 🎮 Exploring new technologies.
-- 📚 Reading books by authors like Michio Kaku.
-- 🎵 Listening to music and discovering new genres.
-- 🏃‍♂️ Staying active with outdoor adventures.
-
----
-
-## ⚙️Ongoing Projects  
-
-- 🧩 **[Game Concept for Teens]**: Combines puzzles and adventures to teach Python programming.
-- 🤖 **[AI Data Analysis Challenge]**: Leveraging AI to find actionable insights.
-- 🚀 **[Rocket Simulation Project]**: Simulating rocket trajectories with Python.
+- 🎧 Music & genre exploration  
+- 📘 Reading sci-fi and popular science (fan of Michio Kaku)  
+- 🏃‍♂️ Outdoor activities and fitness  
+- 🧠 Exploring systems thinking, innovation, and applied AI
 
 ---
 
-
-
+*Updated July 2025 — Let's build something amazing together!*
