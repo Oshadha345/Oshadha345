@@ -59,23 +59,44 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oshadha345&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=Oshadha345&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
+  
+  <!-- Profile Views Badge with Modern Style -->
+  <img src="https://komarev.com/ghpvc/?username=Oshadha345&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  <br/><br/>
+  
+  <!-- Main Stats Grid -->
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshadha345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  </div>
+  
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oshadha345&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  
+  <!-- Streak Stats with Modern Gradient -->
+  <img src="https://streak-stats.demolab.com/?user=Oshadha345&theme=tokyonight&hide_border=true&background=0D1117&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <!-- Activity Graph with Gradient -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oshadha345&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&area_color=1F6FEB" alt="Contribution Graph" width="95%" />
+  
+  <br/>
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Oshadha345&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🔥 Contribution Heatmap
+  <img src="https://ghchart.rshah.org/58A6FF/Oshadha345" alt="Contribution Heatmap" width="80%" />
+  
 </div>
 
 ---
