@@ -17,9 +17,6 @@
 
 ## 🔧 What I’m Working On
 
-- 🤖 **SVAIS (Smart Voice-based Acoustic IoT System)**  
-  Architecting a modular audio-intelligent system with ESP32 and backup-ready hardware. Combining audio recognition, PCB design, and automation control.
-
 - 🎙️ **Edge Audio Recognition with ESP32**  
   Developing real-time trigger word detection (e.g., *clap*, *hello*) using low-power, memory-efficient DSP + ML pipelines suitable for microcontrollers.
 
@@ -41,7 +38,6 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔊 [**Smart Voice-based Acoustic IoT System (SVAIS)**] | A real-time ESP32-based system using a MAX4466 mic, PAM8403 amp, and LiPo UPS. Features wake-word/audio recognition, dual-board modular PCB (Power + Control), and emergency backup functionality. |
 | 🧠 [**Lightweight Audio Recognizer**] | Detects sounds like *snap*, *clap*, *hello*, *on*, *off* using DSP and ML. Includes CSV generation, MFCC extraction, custom classifier, and low-power deployment pipeline. |
 | 🤖 [**Webots Autonomous Robot Simulation**] | 2-wheeled robot simulation with Xiaomi LDS LIDAR, BreezySLAM, Kalman/Complementary filters, and real-time path planning. Fully modular software pipeline with testing structure. |
 | 🔌 [**Custom ESP32 Modular PCB (EasyEDA)**]| Through-hole two-board system with proper ground separation, JST connectors, UPS-powered backup, ESP32 DevKit modular headers, and simulation-first schematic design. |
