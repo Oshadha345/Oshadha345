@@ -79,9 +79,128 @@ I write about the mathematical intuition behind modern AI.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oshadha345&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=7b2cbf" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshadha345&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00b4d8" height="150" alt="languages graph" />
+<p align="center">
+
+  <!-- Row 1: Main Stats + Alternate Stats -->
+  <a href="https://github.com/Oshadha345" target="_blank" style="margin-right:16px;">
+    <img src="https://gh-readme-profile.vercel.app/api?username=Oshadha345&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Maher's GitHub stats" height="142px"/>
+  </a>
+
+  <a href="https://github.com/Oshadha345" target="_blank">
+    <img alt="Maher's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Oshadha345&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+  </a>
+
+</p>
+
+<p align="center" style="margin-top:16px;">
+
+  <!-- Row 2: Streak Stats + Top Languages -->
+  <a href="https://github.com/Oshadha345" target="_blank" style="margin-right:16px;">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Maher's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Oshadha345&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+  </a>
+
+  <a href="https://github.com/Oshadha345" target="_blank">
+    <img 
+      alt="Maher's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Oshadha345&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
+      height="162px"
+    />
+  </a>
+
+</p>
+
+</details>
+
+
+<h2></h2>
+
+<details open>
+  <summary><h2>🚀 Featured Projects</h2></summary>
+  
+  <br>
+  
+  <p align="center">
+    <a href="https://github.com/Oshadha345/BraTSMamba">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Oshadha345&repo=BraTSMamba&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+    </a>
+    <a href="https://github.com/Oshadha345/server-sentinel-c">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Oshadha345&repo=server-sentinel-c&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Oshadha345/Digital-Art">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Oshadha345&repo=Digital-Art&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+    </a>
+    <a href="https://github.com/Oshadha345/Sensor-Calibration-Analysis">
+      <img src="https://gh-readme-stats.vercel.app/api/pin/?username=Oshadha345&repo=Sensor-Calibration-Analysis&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3" width="350px" height="125px"/>
+    </a>
+  </p>
+</details>
+
+<h2></h2>
+
+<details>
+  <summary><h2>🔝 Top Contributed Repo</h2></summary>
+
+  <br>
+  
+<p align="center">
+  <a href="https://github.com/Oshadha345">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Oshadha345&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Top Repo" />
+  </a>
+</p>
+</details>
+
+<h2></h2>
+
+<details open>
+  <summary><h2>🏆 GitHub Trophies</h2></summary>
+  
+  <br>
+  
+<p align="center">
+  <a href="https://github.com/Oshadha345">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Oshadha345&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+</p>
+</details>
+
+<h2></h2>
+
+<details open>
+  <summary><h2>📈 GitHub Activity Graph</h2></summary>
+
+  <!-- Activity Graph --> 
+  <div align="center">
+    <a href="https://github.com/Oshadha345">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Oshadha345&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" 
+        alt="GitHub Activity Graph"
+      />
+    </a>
+  </div>
+</details>
+
+<h2></h2>
+
+<details open>
+  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
+
+  <br>
+    
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oshadha345/Oshadha345/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oshadha345/Oshadha345/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/Oshadha345/Oshadha345/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+  <br/>
+  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
 </div>
+</details>
+
+
 
 <div align="center">
   <br>
