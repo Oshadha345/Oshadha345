@@ -90,38 +90,28 @@ I write about the mathematical intuition behind modern AI.
 ---
 
 <div align="center">
+
+<!-- Main Stats Row -->
 <p align="center">
-
-  <!-- Row 1: Main Stats + Alternate Stats -->
-  <a href="https://github.com/Oshadha345" target="_blank" style="margin-right:16px;">
-    <img src="https://gh-readme-profile.vercel.app/api?username=Oshadha345&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Maher's GitHub stats" height="142px"/>
+  <a href="https://github.com/Oshadha345" target="_blank" style="margin-right: 16px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Oshadha345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd&include_all_commits=true&count_private=true" height="165px" alt="GitHub Stats"/>
   </a>
-
   <a href="https://github.com/Oshadha345" target="_blank">
-    <img alt="Maher's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Oshadha345&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oshadha345&theme=tokyonight&hide_border=true&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="165px" alt="Contribution Streak"/>
   </a>
-
 </p>
 
-<p align="center" style="margin-top:16px;">
-
-  <!-- Row 2: Streak Stats + Top Languages -->
-  <a href="https://github.com/Oshadha345" target="_blank" style="margin-right:16px;">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Maher's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Oshadha345&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+<!-- Languages + Trophies -->
+<p align="center" style="margin-top: 16px;">
+  <a href="https://github.com/Oshadha345" target="_blank" style="margin-right: 16px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oshadha345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&langs_count=8" height="150px" alt="Top Languages"/>
   </a>
-
   <a href="https://github.com/Oshadha345" target="_blank">
-    <img 
-      alt="Maher's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Oshadha345&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
-      height="162px"
-    />
+    <img src="https://github-profile-trophy.vercel.app/?username=Oshadha345&theme=aura&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
   </a>
-
 </p>
 
-</details>
-
+</div>
 
 <h2></h2>
 
@@ -194,22 +184,6 @@ I write about the mathematical intuition behind modern AI.
 </details>
 
 <h2></h2>
-
-<details open>
-  <summary><h2>🟡 Pacman Contribution Graph</h2></summary>
-
-  <br>
-    
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oshadha345/Oshadha345/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Oshadha345/Oshadha345/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/Oshadha345/Oshadha345/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
-  </picture>
-  <br/>
-  <sub><i>Auto-generated every 12 hours via GitHub Actions.</i></sub>
-</div>
-</details>
 
 
 
