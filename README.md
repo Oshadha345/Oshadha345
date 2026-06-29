@@ -35,9 +35,8 @@ I bridge **deterministic control theory** with **chaotic intelligence** through 
 #### 🔬 Research Projects
 | Project | Status | Tech Stack | Description | Links |
 |---------|--------|------------|-------------|-------|
-| **Visual SSM Benchmark** | IGARSS 2026 Selected | `VMamba`, `MambaVision`, `PyTorch`, `LoveDA` | Controlled benchmark of Visual State-Space Models for domain shifts and boundary delineation in remote sensing segmentation vs. CNN/ViT baselines. | — |
+| **Visual SSM Benchmark** | IGARSS 2026 Selected + arXiv + Model Release| `VMamba`, `MambaVision`, `PyTorch`, `LoveDA` | Controlled benchmark of Visual State-Space Models for domain shifts and boundary delineation in remote sensing segmentation vs. CNN/ViT baselines. | [GitHub](https://github.com/Dineth14/Mamba-Segmentation) • [Hugging Face](https://huggingface.co/dineth18/Mamba-Segmentation) • [arXiv](https://arxiv.org/abs/2604.18721) |
 | **SolarMamba** | ECCV 2026 (Rebuttal) → Targeting Applied Energy | `MambaVision (RGB)`, `Pyramid TCN`, `LadderFusion` | Multimodal solar irradiance nowcasting with adaptive hierarchical fusion of sky images and temporal weather data. | [Repo](https://github.com/Oshadha345/SolarMamba) |
-| **Mamba-Segmentation** (with Dineth Perera) | arXiv + Model Release | `Mamba-SSM`, `PyTorch` | Efficient Mamba-based segmentation architecture. | [GitHub](https://github.com/Dineth14/Mamba-Segmentation) • [Hugging Face](https://huggingface.co/dineth18/Mamba-Segmentation) • [arXiv](https://arxiv.org/abs/2604.18721) |
 | **FlowMatch-PdM** | IEEE IES GenAI Challenge Selected (Submission) | `Conditional Flow Matching`, `ODE`, `Generative AI` | Synthetic fault data generation for predictive maintenance using continuous-time flow matching. | — |
 | **BraTSMamba** | BioFusion 2026 (Participated) | `Mamba-SSM`, `3D Conv`, `MONAI` | Linear-complexity 3D brain tumor segmentation on full-resolution multi-modal MRI. | [Project Page](https://oshadha345.github.io/#/projects/2) |
 
