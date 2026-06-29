@@ -19,26 +19,38 @@
 
 ### ⚡ About Me
 
-> *"Complexity is just a sum of simplicities."* — *The Eternal Harmonic*
+> *"Complexity is just a sum of simplicities."* 
 
-I am a researcher and engineer based in **Sri Lanka**, focused on the intersection of **Deep Learning, Control Systems, and Robotics**. My work moves beyond standard implementations, aiming to integrate state-space mathematics with modern generative AI to solve complex physical problems.
+I bridge **deterministic control theory** with **chaotic intelligence** through deep learning, state-space models, and mechanistic interpretability. My goal is to understand neural networks at the pixel and numerical level — tracing information flow, geometry, and dynamics.
 
-* 🔭 **Focus:** Computer Vision (SSMs), Time-Series Forecasting, & Autonomous Robotics.
-* 🧬 **Research:** Exploring **Mamba/State-Space Models** for medical imaging and remote sensing.
+- 🔭 **Current Focus**: Mechanistic dissection of modern architectures (Transformers, Mamba/SSMs, JEPA, INRs)
+- 🧬 **Research**: Visual State-Space Models, Multimodal Fusion, Information Theory & Geometry in AI
+- 🛠️ **Applied Work**: Solar irradiance nowcasting, medical imaging, remote sensing, predictive maintenance
 * 🧠 **Interests:** Integrated Information Theory (IIT), Chaos Theory, and Embodied Intelligence.
 
 ---
 
 ### 🚀 Research & Innovation (2025-2026)
 
-| 🔬 Project | 🛠️ Tech Stack | 📝 Description |
-| :--- | :--- | :--- |
-| **Visual SSM Benchmark**<br>*(IGARSS 2026 Submission)* | `VMamba` `MambaVision` `PyTorch` `LoveDA` | A controlled benchmark of Visual State-Space backbones. Investigating domain shifts and boundary analysis in remote sensing segmentation against CNN/ViT baselines. |
-| **SolarMamba**<br>*(Nowcasting)* | `MambaVision (RGB)` `TCN (Time)` `Fusion` | **Solar Irradiance Nowcasting System.** A novel multimodal architecture fusing sky images (via MambaVision encoder) and historical sensor data (via Temporal Convolutional Networks) for hyper-local forecasting. |
-| **FlowMatch-PdM**<br>*(IEEE IES GenAI Challenge)* | `Flow Matching` `Generative AI` `ODE` | **Continuous-Time Generative Augmentation.** Solving "data scarcity" in industrial predictive maintenance by synthesizing high-fidelity fault data using Conditional Flow Matching instead of GANs/Diffusion. |
-| **BraTSMamba**<br>*(BioFusion 2026 @ UoJ)* | `Mamba-SSM` `3D Segmentation` `Monai` | **3D Brain Tumor Segmentation.** A linear-complexity architecture processing full-resolution 3D MRI volumes. Features a Dual-Path Conv Stem for heterogeneous multi-modal fusion. |
-| **Omni-Bot Autonomy**<br>*(Robotics Phase 2)* | `ROS` `Jetson AGX` `Kalman Filter` `Lidar` | Transitioning a 4-wheeled omni-directional robot from teleoperation to full autonomy using SLAM, PID control loops, and matrix-based kinematics. |
+#### 🔬 Research Projects
+| Project | Status | Tech Stack | Description | Links |
+|---------|--------|------------|-------------|-------|
+| **Visual SSM Benchmark** | IGARSS 2026 Selected | `VMamba`, `MambaVision`, `PyTorch`, `LoveDA` | Controlled benchmark of Visual State-Space Models for domain shifts and boundary delineation in remote sensing segmentation vs. CNN/ViT baselines. | — |
+| **SolarMamba** | ECCV 2026 (Rebuttal) → Targeting Applied Energy | `MambaVision (RGB)`, `Pyramid TCN`, `LadderFusion` | Multimodal solar irradiance nowcasting with adaptive hierarchical fusion of sky images and temporal weather data. | [Repo](https://github.com/Oshadha345/SolarMamba) |
+| **Mamba-Segmentation** (with Dineth Perera) | arXiv + Model Release | `Mamba-SSM`, `PyTorch` | Efficient Mamba-based segmentation architecture. | [GitHub](https://github.com/Dineth14/Mamba-Segmentation) • [Hugging Face](https://huggingface.co/dineth18/Mamba-Segmentation) • [arXiv](https://arxiv.org/abs/2604.18721) |
+| **FlowMatch-PdM** | IEEE IES GenAI Challenge Selected (Submission) | `Conditional Flow Matching`, `ODE`, `Generative AI` | Synthetic fault data generation for predictive maintenance using continuous-time flow matching. | — |
+| **BraTSMamba** | BioFusion 2026 (Participated) | `Mamba-SSM`, `3D Conv`, `MONAI` | Linear-complexity 3D brain tumor segmentation on full-resolution multi-modal MRI. | [Project Page](https://oshadha345.github.io/#/projects/2) |
 
+#### 💡 Innovations & Engineering Projects
+| Project | Status | Tech Stack | Description | Links |
+|---------|--------|------------|-------------|-------|
+| **ContxtBox** | Latest Innovation | AI Tools, LLM | Newest AI productivity tool for contextual information management. | [GitHub](https://github.com/Oshadha345/contxt-box) |
+| **Li-Fi File Sharing** | Completed | `Li-Fi`, Embedded Systems | Wireless file sharing system using visible light communication. | [GitHub](https://github.com/Oshadha345/Li-Fi-File-Sharing) |
+| **Omni-Wheel Robot** | Completed & Exhibited (EngEx) | `ROS`, `Jetson AGX`, `Kalman Filter`, `Lidar`, PID Control | Omni-directional 4-wheeled autonomous robot with SLAM, matrix-based kinematics, and PID control loops. Transitioned from teleoperation to full autonomy. | [Project Page](https://oshadha345.github.io/#/projects/4) |
+| **Symon Says (SVAIS)** | Completed & Exhibited (EngEx) | `MATLAB`, `ESP32`, `Audio Classification`, `Embedded Systems` | Smart Voice-Based Acoustic Intelligence System — An interactive **Simon Says** memory game controlled by real-time sound classification (snap, clap, knock). Uses hybrid feature extraction and ESP32 hardware with LED sequences. EE254 group project. | [Project Site](https://sites.google.com/view/symon-says/home) • [GitHub](https://github.com/kaweesha2002/SVAIS) |
+| **Distance Geometry in ML** | Ongoing Learning | `Python`, Geometry, Nonlinear Systems | Exploration of distance geometry techniques applied to machine learning representations. | [Repo](https://github.com/Oshadha345/distance-geometry-ml) |
+| **Information Theory Learning** | Self-Directed Research | `Jupyter`, Entropy, Compression | Notebooks on Shannon theory, Huffman coding, and information bottleneck concepts. | [Repo](https://github.com/Oshadha345/information-theory) |
+| **Nonlinear & Multivariable Systems** | Academic + Experiments | `SciPy`, `NumPy`, Phase Portraits | Control theory experiments including Lyapunov stability, bifurcations, and feedback linearization. | [Repo](https://github.com/Oshadha345/EE539-Nonlinear-and-Multivariable-Systems) |
 ---
 
 ### ✍️ Technical Writing & Thought Leadership
